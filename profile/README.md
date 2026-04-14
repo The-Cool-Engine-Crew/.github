@@ -1,4 +1,14 @@
-# The Cool Engine Crew
+# **THE COOL ENGINE CREW!!!**
 
-Welcome to the FNF Cool Engine dev team! 
-I hope you love the engine and enjoy the libraries we've created!
+Welcome to the FNF Cool Engine dev team 👋
+We make tools and libraries to help you create cool stuff for Friday Night Funkin’ — simple as that.
+
+✨ What we do
+- Fast, clean systems
+- Easy-to-use tools
+- Built for modders
+
+💡 Why
+Because making mods should feel fun, not painful.
+
+> Make it cool. 😎
